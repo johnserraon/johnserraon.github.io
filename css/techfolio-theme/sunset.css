@@ -6,8 +6,8 @@
 /* See https://getbootstrap.com/docs/5.2/customize/css-variables/#root-variables for variables to override. */
 :root {
   --tf-orange1: #E8B609;
-  --tf-orange2: #F5BD67;
-  --tf-orange3: #F0780F;
+  --tf-orange2: #F0780F;
+  --tf-orange3: #F59D4B;
   --tf-orange4: #FFEDAE;
   --bs-font-sans-serif: "Open Sans", sans-serif;
   --bs-link-color: var(--tf-orange1);
