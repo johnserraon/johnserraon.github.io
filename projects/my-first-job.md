@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: ../img/my-first-job/my-first-job.jpg
+image: img/my-first-job/my-first-job.jpg
 title: "The First Job"
 date: 2018
 published: true
