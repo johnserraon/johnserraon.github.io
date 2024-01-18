@@ -17,6 +17,7 @@ labels:
 ## Now and Then with Programming
 
 My experience in the programming world up to this point has been almost entirely in Java, with a brief side of C/C++ and some scripting languages in recent years. Yet, even prior to taking any college courses in ICS, I had ventured into programming on my own using Java, via Eclipse's Java IDE. Though Eclipse's assistive features were generally helpful to the beginner that I was, it was difficult to keep up with figuring out every little detail and rule of Java's keywords and syntax, and it would prove incredibly hard to learn the language this way.
+
 <img width="300px" 
      class="rounded" 
      src="https://images.pond5.com/lockdown-fired-worker-smashes-computer-footage-147075813_iconl.jpeg" >
