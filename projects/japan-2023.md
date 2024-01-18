@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: <img/cotton/cotton-square.png>
 title: "Japan Trip 2023"
 date: Dec 2023- Jan 2024
 published: true
