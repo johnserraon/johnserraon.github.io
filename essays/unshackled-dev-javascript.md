@@ -17,7 +17,7 @@ labels:
 ## Now and Then with Programming
 
 My experience in the programming world up to this point has been almost entirely in Java, with a brief side of C/C++ and some scripting languages in recent years. Yet, even prior to taking any college courses in ICS, I had ventured into programming on my own using Java, via Eclipse's Java IDE. Though Eclipse's assistive features were generally helpful to the beginner that I was, it was difficult to keep up with figuring out every little detail and rule of Java's keywords and syntax, and it would prove incredibly hard to learn the language this way.
-<img width="200px" 
+<img width="300px" 
      class="rounded" 
      src="https://images.pond5.com/lockdown-fired-worker-smashes-computer-footage-147075813_iconl.jpeg" >
 
@@ -28,7 +28,8 @@ Moving forward to the present, the experiences I have had now with Java; some cu
 ### Java’s Pitfalls
 The difficulty that I faced with Java lies in how the language is designed: development in Java requires following very strict syntax rules, and it is referred to as a “strongly typed” language. The latter indicates how Java requires explicit type declarations for everything, such as with functions or variables. A simple integer variable must be declared with an ‘int’ type and it must always be treated as an integer, lest errors are desired - and there are no shortage of exceptions to look out for as a result of Java’s rigidity. Since the explicit nature of Java’s syntax guarantees a level of readability, these qualities do provide the upside of making the code easy to decipher for beginners or peers reading one’s program, but it is at the cost of accessibility and easily leads to frustrating experiences.
 ### ‘Swiss-ArmyScript’
-<img width="200px" 
+
+<img width="300px" 
      class="rounded float-end pe-4" 
      src="https://miro.medium.com/v2/resize:fit:960/0*NVWU-kfUNJICyhpK.png" >
 
