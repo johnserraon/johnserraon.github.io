@@ -16,5 +16,5 @@ summary: "It was a gateway to developing work and life skills, and finding resol
 
 The summer of 2018...
 
-<img class="img-fluid" src="../img/my-first-job/summer.sihouettes.jpg">
+<img class="img-fluid" src="../img/my-first-job/summer-silhouettes.jpg">
 >
