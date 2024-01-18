@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: <img/cotton/cotton-square.png>
 title: "Associate in Applied Science - Automotive Technology"
 date: 2020-2022
 published: true
