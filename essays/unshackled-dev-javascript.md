@@ -19,7 +19,7 @@ labels:
 My experience in the programming world up to this point has been almost entirely in Java, with a brief side of C/C++ and some scripting languages in recent years. Yet, even prior to taking any college courses in ICS, I had ventured into programming on my own using Java, via Eclipse's Java IDE. Though Eclipse's assistive features were generally helpful to the beginner that I was, it was difficult to keep up with figuring out every little detail and rule of Java's keywords and syntax, and it would prove incredibly hard to learn the language this way.
 
 <img width="300px" 
-     class="rounded" 
+     class="rounded mx-auto d-block" 
      src="https://images.pond5.com/lockdown-fired-worker-smashes-computer-footage-147075813_iconl.jpeg" >
 
 Over the years, I continued to work in Java and tried to conjure up small personal projects. For example, there I was trying to make a game from scratch with no coding background whatsoever, and mindlessly following yesteryear's online tutorials to cobble something together. While I did see some personal breakthroughs with each new attempt at making something, they were minor achievements in retrospect and only served to shore up the insurmountable cliff-face that programming was becoming to me. Though Java was touted as a beginner-friendly language, I know now what I was feeling during those years— it was not very accessible.
