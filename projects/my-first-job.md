@@ -1,14 +1,15 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
-title: "Cotton"
-date: 2014
+image: <img/cotton/cotton-square.png>
+title: "The First Job"
+date: 2018
 published: true
 labels:
-  - Lisp
-  - GitHub
-summary: "A text adventure game that I developed for ICS 313."
+  - First job
+  - Life experience
+  - Facing difficulty
+summary: "Developing work and life skills, and finding resolve."
 ---
 
 <img class="img-fluid" src="../img/cotton/cotton-header.png">
