@@ -1,32 +1,32 @@
-/* Sunset Theme: modifies the default theme to add warm sunset hues. */
+/* orange Theme: modifies the default theme to add warm orange hues. */
 
 /* Use Open Sans as the default font. */
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,700|Source+Code+Pro:300,400,500,700");
 
 /* See https://getbootstrap.com/docs/5.2/customize/css-variables/#root-variables for variables to override. */
 :root {
-  --tf-sunset1: #E8B609;
-  --tf-sunset2: #F5BD67;
-  --tf-sunset3: #F0780F;
-  --tf-sunset4: #FFEDAE;
+  --tf-orange1: #E8B609;
+  --tf-orange2: #F5BD67;
+  --tf-orange3: #F0780F;
+  --tf-orange4: #FFEDAE;
   --bs-font-sans-serif: "Open Sans", sans-serif;
-  --bs-link-color: var(--tf-sunset1);
-  --tf-pill-bg: var(--tf-sunset3);
-  --tf-icon-fill: var(--tf-sunset1);
-  --tf-icon-hover: var(--tf-sunset2);
+  --bs-link-color: var(--tf-orange1);
+  --tf-pill-bg: var(--tf-orange3);
+  --tf-icon-fill: var(--tf-orange1);
+  --tf-icon-hover: var(--tf-orange2);
   --tf-page-bg-color: var(--bs-white);
-  --tf-footer-bg-color: var(--tf-sunset4);
-  --tf-projects-bg-color: var(--tf-sunset4);
+  --tf-footer-bg-color: var(--tf-orange4);
+  --tf-projects-bg-color: var(--tf-orange4);
 }
 
 h1,h2,h3,h4,h5 {
-  color: var(--tf-sunset1);
+  color: var(--tf-orange1);
 }
 
 /* Format social media icons */
 .tf-social {
   display: inline-block;
-  fill: var(--tf-sunset1);
+  fill: var(--tf-orange1);
   height: 1.5em;
   vertical-align: -.1em;
   width: 1.5em;
