@@ -11,7 +11,7 @@ labels:
   - Facing difficulty
 summary: "Developing work and life skills, and finding resolve."
 ---
-
+<
 <img class="img-fluid" src="../img/cotton/cotton-header.png">
 
 Cotton is a horror-style text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
@@ -58,3 +58,4 @@ The corridor is lit with the candle. It is so long that you cannot see to the en
 <hr>
 
 Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+>
