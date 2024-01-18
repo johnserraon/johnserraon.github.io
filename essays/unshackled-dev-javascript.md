@@ -29,62 +29,13 @@ Moving forward to the present, the experiences I have had now with Java; some cu
 ### Java’s Pitfalls
 The difficulty that I faced with Java lies in how the language is designed: development in Java requires following very strict syntax rules, and it is referred to as a “strongly typed” language. The latter indicates how Java requires explicit type declarations for everything, such as with functions or variables. A simple integer variable must be declared with an ‘int’ type and it must always be treated as an integer, lest errors are desired - and there are no shortage of exceptions to look out for as a result of Java’s rigidity. Since the explicit nature of Java’s syntax guarantees a level of readability, these qualities do provide the upside of making the code easy to decipher for beginners or peers reading one’s program, but it is at the cost of accessibility and easily leads to frustrating experiences.
 ### ‘Swiss-ArmyScript’
-
 <img width="300px" 
      class="rounded float-end pe-4" 
      src="https://miro.medium.com/v2/resize:fit:960/0*NVWU-kfUNJICyhpK.png" >
-
-JavaScript, by comparison, alleviates many if not all grievances that may be brought on by Java’s austere structuring. This is due to the various features it...
-Honestly, JavaScript is just fun to use.
-
-
-## More than just appending "Script"
+JavaScript, by comparison, alleviates many if not all grievances that may be brought on by Java’s austere structuring. This is due to the various features JavaScript brings to the table that augments its flexibility and ease of use compared to Java and other programming languages.
+Foremost is JavaScript’s nature as a “weakly typed” language, where declarations and syntax are not so exacting and rather the opposite. To revisit the integer example from the previous section, declaring a variable in JavaScript does not require anything like a ‘int’ keyword – the variable only needs to be declared with one of several different keywords like let, const, or var, each with their own quirks, and the variable is then free to be treated however one wishes. It can be an integer in one function, be modified into a string an another, and even be reassigned into an array. As can be seen in the graphic to the right, this fluidity is known as dynamic typing, vis-à-vis Java’s static typing described above.
+Another impressive functionality of JavaScript has to do with just that – its functions. This difference especially draws a contrast with Java’s handling of functions. Where Java functions must have their return/output typing declared outright and can only output that type of function, JavaScript functions are incredibly flexible for being able to return multiple types from a single function; and more than that, it is not only variables that can be returned, but impressively even functions themselves. And on top of all that, JavaScript even features “arrow functions,” which streamline writing function code significantly.
 
 
-
-Overall, JavaScript's qualities make it very freeing for developers: it unshackles the restraints on flexibility imposed by other languages, making it ideal for those trying to break into the programming space, and rendering it a highly accessible language for developers of all skill levels.
-
-
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
-
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
-
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
-
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
-
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
-
-Here's what I think: the difficult things will always be difficult.
-
-## In the context of programming
-
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
-
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
-
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
-
-## In the context of engineering
-
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
-
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
-
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
-
-## In the context of relationships
-
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
-
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
-
-Relationships have always been difficult, and by nature will continue to be so.
-
-## Okay!
-
-So back to the original premise; why is being one of the club officers so difficult?
-
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
+## In Review - more than just appending "Script"
+All of the features that JavaScript allows for nets significant impact on its ease of use and makes it a very appealing language to use. Most importantly, this level of flexibility facilitates JavaScript as an ideal environment for coding on the fly, allowing users to draft out program ideas quickly and adjust them easily, avoiding the headaches of more strongly typed languages. Overall, JavaScript's qualities make it very freeing for developers: it unshackles the restraints on flexibility imposed by other languages, making it ideal for those trying to break into the programming space, and rendering it a highly accessible language for developers of all skill levels. Although my class is still in the introductory period, I can say already that JavaScript is honestly just fun to use.
