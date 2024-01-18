@@ -37,73 +37,42 @@
       "endDate": "Present",
       "courses": [
       ]
-    }
-  ],
-  "work": [
+    },
     {
-      "company": "",
-      "position": "",
-      "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        ""
+      "institution": "Leeward Community College, Pearl City, HI",
+      "area": "Liberal Arts",
+      "studyType": "A.A.",
+      "endDate": "2022",
+      "courses": [
       ]
     },
     {
-      "company": "",
-      "position": "",
-      "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        ""
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        ""
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        ""
+      "institution": "Leeward Community College, Pearl City, HI",
+      "area": "Automotive Technology",
+      "studyType": "A.A.S.",
+      "startDate": "2020",
+      "endDate": "2022",
+      "courses": [
       ]
     }
   ],
   "awards": [
     {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
+      "title": "Associate in Arts - Liberal Arts",
+      "date": "Summer 2022",
+      "awarder": "Leeward Community College",
+      "summary": "Achieved degree by completing all course requirements"
     },
     {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
+      "title": "Associate in Applied Science - Automotive Technology",
+      "date": "Spring 2022",
+      "awarder": "Leeward Community College",
+      "summary": "Achieved degree for completing 2-year automotive program"
     }
   ],
   "references": [
     {
-      "name": ""
+      "name": "References available upon request."
     }
   ]
 }
