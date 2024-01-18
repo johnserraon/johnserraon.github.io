@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: <..img/my-first-job/my-first-job.jpg>
+image: <../img/my-first-job/my-first-job.jpg>
 title: "The First Job"
 date: 2018
 published: true
@@ -11,8 +11,7 @@ labels:
   - Facing difficulty
 summary: "Developing work and life skills, and finding resolve."
 ---
-<
-<img class="img-fluid" src="..img/my-first-job/pacific-palisades.png">
+<img class="img-fluid" src="../img/my-first-job/pacific-palisades.png">
 
 Cotton is a horror-style text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
 
