@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/my-first-job/parks-rec-icon.jpg
-title: "My First Job"
+title: "The First Job"
 date: 2018
 published: true
 labels:
@@ -10,7 +10,7 @@ labels:
   - Life experience
   - Overcoming difficulty
   - Personal growth
-summary: "It was a gateway to developing work and life skills, and finding resolve."
+summary: "A gateway to developing work and life skills, and finding resolve."
 ---
 In the summer of 2018, I was hired as a Summer Fun Leader through the City and County of Honolulu's Department of Parks and Recreation. A Summer Fun Program requires responsible leaders to oversee and carry out the program’s purpose: allowing the kids to have a safe, fun summer experience. Inherently, there is a standard of quality to uphold when it comes to caretaking children, and this is amplified immensely when there are children of different ages, backgrounds, interests, and personalities. It is the role of the Summer Fun Leaders and staff to organize this chaos and ensure a professionally coordinated environment at all times.
 
