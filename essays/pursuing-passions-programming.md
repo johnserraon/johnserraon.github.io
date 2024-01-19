@@ -30,11 +30,11 @@ When it comes to an audience for these projects, I realize that it is, in large 
 
 ## Exposing a career-focus
 
-<img width="300px" 
-     class="rounded float-start pe-4" 
+<img width="250px" 
+     class="rounded float-end pe-4" 
      src="../img/pursuing-passions-programming/ics-specializations.jpg" >
 
-Of course, a key objective from going through an ICS program also lies in discovering the possibilities within the scope of software engineering, which will guide my trajectory in ICS as a career. Right now, although I know what I want to do with the knowledge and skills as a personal passion, its future as a career of mine still feels shrouded in mystery to me. Hopefully, the curriculum and its practical experiences will offer me an idea of the various specializations within the field, and it may help me narrow down how to balance programming as both a career and a personal interest.
+Of course, a key objective from going through an ICS program also lies in discovering the possibilities within the scope of software engineering, which will guide my trajectory in ICS as a career. Right now, although I know what I want to do with the knowledge and skills as a personal passion, its future as a career of mine still feels shrouded in mystery to me. Hopefully, the curriculum and its practical experiences will offer me an idea of the various specializations within the field, and it may help me narrow down how to balance programming as both a career and a personal interest. As of right now, though, honing in on the development and engineering aspects of it are what has me engaged the most, and they may be the areas that would work most conducively with the personal motives I have cooking on the backburner.
 
 ## Setting Expectations
 
