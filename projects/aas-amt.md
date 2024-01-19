@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/aas-amt/amt-icon.png
+image: img/aas-amt/amt-icon.jpg
 title: "Associate in Applied Science - Automotive Technology"
 date: 2020-2022
 published: true
