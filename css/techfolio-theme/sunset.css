@@ -9,6 +9,7 @@
   --tf-orange2: #F0780F;
   --tf-orange3: #F59D4B;
   --tf-orange4: #FFEDAE;
+  --tf-orange5: #D0A990;
   --bs-font-sans-serif: "Open Sans", sans-serif;
   --bs-link-color: var(--tf-orange1);
   --tf-pill-bg: var(--tf-orange3);
@@ -17,6 +18,7 @@
   --tf-page-bg-color: var(--bs-white);
   --tf-footer-bg-color: var(--tf-orange4);
   --tf-projects-bg-color: var(--tf-orange4);
+  --tf-essays-bg-color: var(--tf-orange5);
 }
 
 h1,h2,h3,h4,h5 {
