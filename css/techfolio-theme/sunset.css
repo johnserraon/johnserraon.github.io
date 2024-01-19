@@ -45,6 +45,6 @@ a {
 
 /* Simplify the styling of the bottom of Essay cards. */
 .card-footer {
-  background-color: var(--bs-white);
+  background-color: var(--tf-orange4);
   border-top: none;
 }
