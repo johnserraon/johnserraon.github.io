@@ -24,4 +24,4 @@ Overall, my first job as a Summer Fun Leader burgeoned in me many necessary skil
 
 
 <img class="img-fluid" src="../img/my-first-job/summer-silhouettes.jpg">
->
+
