@@ -30,7 +30,7 @@ When it comes to an audience for these projects, I realize that it is, in large 
 
 ## Exposing a career-focus
 
-<img width="250px" 
+<img width="275px" 
      class="rounded float-end pe-4" 
      src="../img/pursuing-passions-programming/ics-specializations.jpg" >
 
