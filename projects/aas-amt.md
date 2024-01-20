@@ -18,10 +18,10 @@ Leeward Community College is home to an Automotive Technology program, and with 
 From 2020 to 2022, during the novel COVID pandemic, I embarked on this alternative educatory pursuit to attain new skills and gain valuable experience. As a student in the Automotive Technology program, I was tasked with accruing a vast collection of tools and the knowledge of how to use and apply them to the various and often unpredictable scenarios that automotive service entails. I was thoroughly educated on the various mechanical, electrical and chemical systems that lie throughout modern vehicles, and I developed unique technical skills all throughout the program. 
 
 <div class="text-center p-4">
-  <img width="300px" 
+  <img height="300px" 
        src="../img/aas-amt/amt-teamwork.jpg" 
        class="img-thumbnail" >
-  <img width="300px" 
+  <img height="300px" 
        src="../img/aas-amt/amt-brake-job.jpg" 
        class="img-thumbnail" >
 </div>
