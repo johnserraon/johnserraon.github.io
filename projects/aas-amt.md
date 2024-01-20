@@ -34,5 +34,5 @@ Learning technical knowledge like various scientific principles and understandin
 The skills and experiences I learned from my time in the automotive program bolstered my capability to work with others in a professional environment, as I grew experienced in organizing people and distributing the workload among team members to get jobs done efficiently. I also developed prowess in handling high-stress and dynamic situations through the intensive work and fast pace required on tasks, and furthered leadership abilities when it came to strategizing how to tackle obstacles or overcome unforeseen issues and crises in the shop.
 
 
-<img height="500px" img class="img-fluid" src="../img/aas-amt/amt-group.PNG">
+<img height="350px" img class="img-fluid" src="../img/aas-amt/amt-group.PNG">
 
