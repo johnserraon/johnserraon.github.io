@@ -18,10 +18,12 @@ My life-long ambition has always been in the arts, with my passions stemming fro
 
 In pursuing this endeavor, I have taken up learning software programming through university education. By doing so, I hope to cultivate the skills that would allow me to create robust projects of my own, like web, desktop or mobile applications that can take advantage of my artistic creativities. Goals like developing games and understanding graphics are what I look forward to as I proceed in learning programming. These do not need to be from scratch either; I will also be building the skills to take advantage of any toolkits available, aptly and professionally, with my energies free to be focused on what I would enjoy most from these projects - bringing my creative processes to life, in a visual and interactive medium.
 
-
-<img width="450px" 
-     class="rounded mx-auto d-block" 
-     src="../img/pursuing-passions-programming/3d-graphics-rendering.png" >
+<div class="text-center pe-4">
+      <img width="450px" 
+         src="../img/pursuing-passions-programming/3d-graphics-rendering.png" >
+      <img width="450px" 
+         src="../img/pursuing-passions-programming/isometric-grid.png" >
+</div>
 
 
 ### Where Purpose Lies
