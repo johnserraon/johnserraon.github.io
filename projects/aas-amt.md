@@ -24,6 +24,9 @@ From 2020 to 2022, during the novel COVID pandemic, I embarked on this alternati
   <img height="300px" 
        src="../img/aas-amt/amt-brake-job.jpg" 
        class="img-thumbnail" >
+  <img height="300px" 
+       src="../img/aas-amt/amt-wiring.jpg"
+      class="img-thumbnail">
 </div>
 
 Technical skills included the ability to read electrical wiring diagrams, being able to decipher and translate their layout to the vehicle, and trace electrical problems as I worked on the system to narrow down the cause of symptoms. Skills in quickly assessing and analyzing situations based on the symptoms and making logical judgements were critical, as well as being adaptable and cooperative in the automotive shop’s environment. Every vehicle, from the problem itself to the vehicle’s construction and even its documentation were unique, dynamic problems that needed to be dealt with skillfully, timely, and professionally.
