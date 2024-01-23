@@ -30,7 +30,7 @@ In pursuing this endeavor, I have taken up learning software programming through
 
 When it comes to an audience for these projects, I realize that it is, in large part, a pursuit in self-fulfillment. They are works of passion, after all. Yet, there is also an interest in sharing enjoyment and fulfillment to the world. For me, art has always been an instrument of bringing happiness to others and bridging connections. And as a project of passion, it is enough for me to know that someone, anyone else enjoyed it as well. The interplay of art and programming also serves to preserve certain kinds of software experiences much like preserving art - 'classic' games and genres, for instance, can be kept alive by developing similar kinds of projects and iterating or modernizing them, the same way in which artists can restore interest in old series, characters and art-styles by illustrating them again for modern audiences.
 
-## Exposing a career-focus
+## Exposing a Career-focus
 
 <img width="275px" 
      class="rounded float-end pe-4" 
