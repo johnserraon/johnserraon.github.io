@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/japan-2023/japan-trip-map.png
 title: "Japan Trip 2023"
-date: Dec 2023- Jan 2024
+date: Dec 2023 - Jan 2024
 published: true
 labels:
   - Travel
