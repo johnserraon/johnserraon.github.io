@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/my-first-job/parks-rec-icon.jpg
 title: "The First Job"
-date: Summer 2018
+date: 2018
 published: true
 labels:
   - First job
