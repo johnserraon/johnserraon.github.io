@@ -14,6 +14,8 @@ labels:
 ---
 “There’s no such thing as a stupid question.” Whether in school, work or elsewhere, I am sure you have heard this more than once in your life, and you may have even questioned or challenged the statement as I did, internally— “How could that be right? There are plenty of bad questions to ask.”
 
+<img class="rounded mx-auto d-block" src="../img/art-of-learning/stupid-questions-exist.jpg">
+
 I would say that the influence hearing this over the years had on me actually had the effect of me not wanting to ask questions; not to the teacher or mentor figure, anyway. Rather, it had me form the habit of trying to find solutions on my own, doing so as much as possible before going to anyone else for help. It instilled a certain resourcefulness in me as I tackled my own “bad” and “weak” initial questions, so when it came time to inquiring with others on a topic, I would be looking for an educated opinion or clue to a more sophisticated question. It has long been my belief that this ‘trial-and-error’ strategy is the most effective method to learning, and it is something that is keenly relevant to the field of software engineering and development just as it is in many other pursuits in life (like the one below!)
 
 ## “Apply yourself!”
