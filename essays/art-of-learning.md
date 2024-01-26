@@ -25,8 +25,7 @@ Throughout my years of learning the Japanese language, I would often want to exp
      class="rounded float-end pe-4" 
      src="../img/art-of-learning/art-of-asking.jpg" >
 I think it is this kind of approach described above that makes for potent questions. By challenging oneself first, the questions you can come up with stemming from its results become much more intimate and germane to what you are trying to figure out – or in other words, what you are seeking to learn. Trying to find the solution by yourself allows you to answer a lot of questions you may have otherwise paused on, instead showing you how much you are really capable of learning on your own. And as an advantageous consequence of doing so, what this does is bring you to the best part: the questions that you actually, really don’t have the answer to without guidance or further information. And this then enables you to ask those valuable questions when a precious window of opportunity presents itself.
-
-## The Common Thread of Language
+### The Common Thread of Language
 Now, under the umbrella of software engineering, this strategy to learning is no different. The approach to learning an oral language like Japanese translates seamlessly to learning the various programming languages. While it is easy and very tempting to just ask and find out the solution to a question posed under either respect, doing so robs us of the opportunity for growth in our study. We are not able to learn from our own limits, nor can we learn from our own mistakes. Only the questions fashioned from applying ourselves, exhausting any resources possible, can truly lead to breakthroughs in knowledge and learning.
 
 ## Survey: Scouring the Net
