@@ -20,6 +20,10 @@ I would say that the influence hearing this over the years had on me actually ha
 
 ## “Apply yourself!”
 Throughout my years of learning the Japanese language, I would often want to express a thought or sentence that I had not learned yet. Rather than ask how to say it and what the vocabulary for it is outright, I would try to apply (and often amalgamize) the concepts and structures that I already learned to express something I had not learned yet. Then I would ask questions based on what I tried to produce: Is it a legal expression? Am I able to manipulate the structures and words in this way? What are the underlying mechanics of the language that I can tune and mess around with?
+
+<img width="250px" 
+     class="rounded float-end pe-4" 
+     src="../img/art-of-learning/art-of-asking.jpg" >
 I think it is this kind of approach described above that makes for potent questions. By challenging oneself first, the questions you can come up with stemming from its results become much more intimate and germane to what you are trying to figure out – or in other words, what you are seeking to learn. Trying to find the solution by yourself allows you to answer a lot of questions you may have otherwise paused on, instead showing you how much you are really capable of learning on your own. And as an advantageous consequence of doing so, what this does is bring you to the best part: the questions that you actually, really don’t have the answer to without guidance or further information. And this then enables you to ask those valuable questions when a precious window of opportunity presents itself.
 
 ## The Common Thread of Language
