@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "The Art of Learning"
 # All dates must be YYYY-MM-DD format!
-date: 2024-01-15
+date: 2024-01-25
 published: true
 labels:
 - Self-Education
