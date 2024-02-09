@@ -1,39 +1,33 @@
 ---
 layout: essay
 type: essay
-title: "The Art of Learning"
+title: "\"Feng Shui Programming\""
 # All dates must be YYYY-MM-DD format!
-date: 2024-01-25
+date: 2024-02-08
 published: true
 labels:
-- Self-Education
-- Asking Right Questions
-- Success Strategies
-- Stack Overflow
+- Organization skills
+- Carving your own success
+- Coding standards
+- ESLint + IntelliJ IDEA
   
 ---
-“There’s no such thing as a stupid question.” Whether in school, work or elsewhere, I am sure you have heard this more than once in your life, and you may have even questioned or challenged the statement as I did, internally— “How could that be right? There are plenty of bad questions to ask.”
 
-<img class="rounded mx-auto d-block" src="../img/art-of-learning/stupid-questions-exist.jpg">
+<img class="rounded mx-auto d-block" src="../img/feng-shui-programming/feng-shui-do-dont.jpg">
 
-I would say that the influence hearing this over the years had on me actually had the effect of me not wanting to ask questions; not to the teacher or mentor figure, anyway. Rather, it had me form the habit of trying to find solutions on my own, doing so as much as possible before going to anyone else for help. It instilled a certain resourcefulness in me as I tackled my own “bad” and “weak” initial questions, so when it came time to inquiring with others on a topic, I would be looking for an educated opinion or clue to a more sophisticated question. It has long been my belief that this ‘trial-and-error’ strategy is the most effective method to learning, and it is something that is keenly relevant to the field of software engineering and development just as it is in many other pursuits in life (like the one below!)
+As you may already be familiar, feng shui is an ancient Chinese art of balancing the energies in one's surroundings. It's a methodical practice that is common to see applied modernly in home design and interior decoration, aiming to create a comfortable and conducive space to live in. Whether it's a space for home or for work, achieving features like having clear walkways in a room, being able to find things easily, or having clear, refreshing spaces for the mind to wander toward will faciliate comfort and efficiency in the environment, helping those living in them to live, work/study and focus better. Clarity, consistency, and self-maintainability all fall under the goal of feng shui.
 
-## “Apply yourself!”
-Throughout my years of learning the Japanese language, I would often want to express a thought or sentence that I had not learned yet. Rather than ask how to say it and what the vocabulary for it is outright, I would try to apply (and often amalgamize) the concepts and structures that I already learned to express something I had not learned yet. Then I would ask questions based on what I tried to produce: Is it a legal expression? Am I able to manipulate the structures and words in this way? What are the underlying mechanics of the language that I can tune and mess around with?
+Now, while I don't have six great tips on feng shui to share with you right now ([for those curious, this article does](https://www.sixides.com/articles/the-science-behind-feng-shui-beliefs-and-superstitions)), what I'd like to offer is even better: feng shui is a technique that can be applied to coding environments just as easily as it does to life.
 
+## New software, new standards
+
+How feng shui applies to code is best explained through my experience with the new software tools I was introduced to recently: JetBrains' IntelliJ IDEA. While it's uncertain what the 'A' stands for, IntelliJ IDEA has so far proved to be a very robust IDE that has taken my current adventures in JavaScript to a new level. It works very well with GitHub Desktop, being fun to access and make changes to projects, then commit and push them all very quickly and seamlessly. There has even been a bit of introduction to HTML thrown in there as a teaser for what's to come, I'm sure...
 <img width="250px" 
      class="rounded float-end pe-4" 
-     src="../img/art-of-learning/art-of-asking.jpg" >
-I think it is this kind of approach described above that makes for potent questions. By challenging oneself first, the questions you can come up with stemming from its results become much more intimate and germane to what you are trying to figure out – or in other words, what you are seeking to learn. Trying to find the solution by yourself allows you to answer a lot of questions you may have otherwise paused on, instead showing you how much you are really capable of learning on your own. And as an advantageous consequence of doing so, what this does is bring you to the best part: the questions that you actually, really don’t have the answer to without guidance or further information. And this then enables you to ask those valuable questions when a precious window of opportunity presents itself.
-### The Common Thread of Language
-Now, under the umbrella of software engineering, this strategy to learning is no different. The approach to learning an oral language like Japanese translates seamlessly to learning the various programming languages. While it is easy and very tempting to just ask and find out the solution to a question posed under either respect, doing so robs us of the opportunity for growth in our study. We are not able to learn from our own limits, nor can we learn from our own mistakes. Only the questions fashioned from applying ourselves, exhausting any resources possible, can truly lead to breakthroughs in knowledge and learning.
+     src="../img/feng-shui-programming/badjavascript-ex.PNG" >
+But above all is a certain something that was also introduced through IntelliJ IDEA's vast collection of tools and programming aids - a code quality inspection tool called ESLint. Short for the titular ECMAScript standards that JavaScript is based on, I think ESLint is a very fitting tool for growing our skills in this language. Essentially, ESLint serves as a code 'spellchecker' that helps programmers conform their writing to ECMAScript conventions. It also comes with useful assistive features like suggested fixes to programming errors and feedback. Altogether, the support that ESLint and following its writing standards provides improves the ever-important legibility of one's code.
 
-## Survey: Scouring the Net
-While there aren’t any questions that don’t provide an answer (ergo, no “stupid” questions), a quick survey of the internet can exemplify the above points in action can help draw the line between “good” and “not so good” questions. Turning to the developer-friendly Stack Overflow, I have found a useful example for each that can be cross-examined with [Eric Raymond's resource on asking questions the smart way](http://www.catb.org/esr/faqs/smart-questions.html).
+## The feng shui of code clarity
 
-Firstly, a [“not so good” example](https://stackoverflow.com/questions/77884351/how-to-replace-a-file-name-www-xyz-com-aboutus-php-with-url-slug-www-xyz-com) was fairly easy to find when checking the newest questions. In this post, the original poster (OP) requests Stack Overflow users to give them the answer to a relatively simple question – the OP wanted to know how to redirect a URL on their website, which is PHP-based on the links that were provided. The OP does confess that they have no programming experience in pursuing this task, but the way that the post was handled did not reflect a thorough attempt at resolving their issue themselves first. The OP asks a question in their topic’s title that reads much the same as a search engine query, asking “how to replace” their first URL with the second URL, and it is one that could have very well led to the answer to the question without even needing to create a Stack Overflow post about it. To add to this, a fellow user had responded requesting the OP to do some research before creating a new question, noting that Stack Overflow already has an innumerable amount of the same kind of question and answers. Things like the OP's poor Google Search-like title, their seeming lack of diligence in resolving the problem on their own using the internet (or Stack Overflow's own search bar), and their choice to instead create a new post on Stack Overflow to ask about a fairly rudimentary question all run counter to what Raymond outlines as the road to a smart question.
+...
 
-By comparison, a [“good” question I found](https://stackoverflow.com/questions/77734664/is-there-a-way-to-let-form-actions-trigger-when-a-typed-search-query-partially) had the OP outlining an explicit issue they were experiencing while developing an app. Their post walks readers through their process of what they have seemingly spent a great deal of time trying to resolve on their own before making the Stack Overflow post, to the point of the OP creating a reproducible example and asserting that it may be a browser-based issue causing the problem. The post continues with several images that help to guide readers about the specificities of what the problem is, its symptoms and what they have already tried. Altogether, this helped the OP to draw conclusively about their issue and narrow down the questions to “smart” ones that would help OP to understand the situation better, even acknowledging the possibility of it being their own, overlooked mistake in order to keep the door open for learning from it. I feel that this post does an excellent job at showing how to ask smart questions, as the OP evidently tried to find answers as much as possible first, creating a clear and specific topic title for an equally thorough walkthrough of their problem. And most of all, the OP was turning to Stack Overflow to seek answers from professionals and others knowledgeable for questions that are not easily answered.
-
-## Parting Impressions
-The little excursion above, in tandem with Eric Raymond's piece on smart questions, reaffirmed my thoughts on how learning can be approached to receive from it very effectively. It also had me thinking about those who did or might reply to the posts that were found: I am always thinking about how the person on the other side could respond to whatever I am saying, and this, in turn, also helps when I am deciding how to teach someone else something. I always strive to lead people into their solutions by providing smart questions back to them, so when they arrive at the solution, it is a "Eureka!" moment of success. And when you create your own smart questions, it should be to have that satisfying conclusion as well.
