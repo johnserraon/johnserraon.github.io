@@ -21,7 +21,7 @@ As you may already be familiar, feng shui is an ancient Chinese art of balancing
 
 Now, while I don't have six great tips on feng shui to share with you right now ([for those curious, this article does](https://www.sixides.com/articles/the-science-behind-feng-shui-beliefs-and-superstitions)), what I'd like to offer is even better: feng shui is a technique that can be applied to coding environments just as easily as it does to life. In programming, there too are many "Dos" and "Don'ts"!
 
-<img width="375px" 
+<img width="325px" 
      class="rounded float-end pe-4" 
      src="../img/feng-shui-programming/badjavascript-ex.PNG" >
 
