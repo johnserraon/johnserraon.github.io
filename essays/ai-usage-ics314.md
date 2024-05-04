@@ -1,8 +1,8 @@
 <div class="text-center pe-4">
     <img
-        height="250px" 
-        src="../img/rules-of-creation/gof-23-design-patterns.png" 
-        alt="Gang of Four's 23 Design Patterns, chart">
+        height="350px" 
+        src="../img/ai-usage-ics314/irobot-vs.jpg"
+        alt="I, Robot movie screenshot">
 </div>
 
 ### I. Introduction
