@@ -1,3 +1,19 @@
+---
+layout: essay
+type: essay
+title: "(The) AI Generation"
+# All dates must be YYYY-MM-DD format!
+date: 2024-05-03
+published: true
+labels:
+- Artificial Intelligence
+- Software engineering
+- Github Copilot
+- ChatGPT
+- Future of software development
+  
+---
+
 <div class="text-center pe-4">
     <img
         height="350px" 
