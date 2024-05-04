@@ -17,7 +17,7 @@ labels:
 <div class="text-center pe-4">
     <img
         height="350px" 
-        src="../img/ai-usage-ics314/irobot-vs.jpg"
+        src="../img/the-ai-generation/irobot-vs.jpg"
         alt="I, Robot movie screenshot">
 </div>
 
