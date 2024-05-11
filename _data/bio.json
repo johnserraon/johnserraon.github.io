@@ -16,16 +16,16 @@
   "interests": [
     { "name": "Software Development" },
     { "name": "Art" },
-    { "name": "3D Graphics" },
+    { "name": "3D Graphics" }
   ],
   "skills": [
     {
       "name": "Ongoing Language Experience",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Python", "PHP", "HTML", "Perl" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "Python", "PHP", "HTML", "Perl", "Meteor", "React" ]
     },
     {
       "name": "Toolsets",
-      "keywords": [ "Windows", "Git/GitHub" ]
+      "keywords": [ "Windows", "Git/GitHub", "IntelliJ IDEA", "Bootstrap", "MongoDB" ]
     }
   ],
   "education": [
