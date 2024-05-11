@@ -38,7 +38,7 @@ Some of the above tenets have been selected for further elaboration below —or 
 Our number 1 is all about the importance of agile project management in software development. With a growing project scope or adding members to your team, there are so many moving parts to any project. Thus, it is critical that your project has a structure to it that allows yourself and others to keep track of what needs to be done, what is actively being worked on and where, and what has already been completed. This is where agile project management comes in - for example, in the club leader's [_Manoa Rainbow Cards_ project](https://rainbow-cards.github.io/), the team employed the use of a GitHub project board to keep track of the various tasks that needed to be done for the team's web application.
 <div class="float-end pe-4">
     <img
-        height="350px" 
+        height="400px" 
         src="../img/softeng-club-10-tenets/agile-example-project-board.png"
         alt="Manoa Rainbow Cards Milestone 3 Project Board screenshot">
     <p class="subtitle">Pictured: Milestone 3 project board for the Manoa Rainbow Cards project. <br />By the milestone's completion, as many as 30 tasks were completed by the team!</p>
