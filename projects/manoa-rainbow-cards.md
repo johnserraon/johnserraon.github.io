@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/manoa-rainbow/cards/rainbow-cards-logo.png
+image: img/manoa-rainbow-cards/rainbow-cards-logo.png
 title: "Manoa Rainbow Cards"
 date: Apr 2024 - May 2024
 published: true
