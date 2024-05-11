@@ -39,12 +39,11 @@ Our number 1 is all about the importance of agile project management in software
 
 <div class="float-end pe-4">
     <img
-        height="250px" 
+        height="325px" 
         src="../img/softeng-club-10-tenets/agile-example-project-board.png"
         alt="Manoa Rainbow Cards Milestone 3 Project Board screenshot">
-    <p class="subtitle">Pictured: Milestone 3 project board for the Manoa Rainbow Cards project. By the milestone's completion, as many as 30 tasks were completed by the team!</p>
+    <p class="subtitle">Pictured: Milestone 3 project board for the Manoa Rainbow Cards project. <br />By the milestone's completion, as many as 30 tasks were completed by the team!</p>
 </div>
-
 When approached in this way, a project becomes much easier to iterate on and see an overview of it, which helps lead developers to what needs to be worked on next at any given point of the project's development. Perhaps a task requires more support to implement its features, or causes unintended behavior in other areas of the project - with a system like a project board in place, complete with details and comments on each issue to track their progress, it becomes much easier to target and resolve these issues as they arise, and it is just as easy to create new issue tickets about them for the team to see, simultaneously documenting the needed features, changes and/or fixes. This aspect of this style of workflow is what puts the "agile" in agile project management, and it is why it such a key concept to understand and employ on your journey in software and beyond. When you have a system that lets anyone contribute to the project's goals in a way that is transparent and easy to understand, you have a strategy that is flexible and ready to take on any challenge that comes its way!
 
 #### No. 6: "Don't be afraid to use _open source software_!"
@@ -53,7 +52,7 @@ It is often said that the greatest challenge of software development is knowing 
 
 For instance, a JavaScript-based framework that was frequently used in your club leader's software engineering course was **Meteor**, which was also combined with the **React** framework. To accommodate our development stack, [this template was supplied](https://ics-software-engineering.github.io/meteor-application-template-react/) so we could get started on our web application-based projects and assessments quickly and efficiently: 
 
-![meteor-react-template.png](..%2Fimg%2Fmanoa-rainbow-cards%2Fmeteor-react-template.png)
+<img height="325px" class="rounded mx-auto d-block" src="../img/manoa-rainbow-cards/meteor-react-template.png">
 
 This template proved to be an excellent resource that let us jump right into developing or web applications without having to go through all the tedium of setting up a website each time, and helped to share the message that you don't have to reinvent the wheel every time you want to make a project - chances are, there is an open source project that you can build off of as a base! As long as you build an understanding of how the project is engineered, you can turn it into anything you want. Even the club leader's [_Manoa Rainbow Cards_](https://rainbow-cards.github.io/) trading card game app was based off of the above template!
 
