@@ -32,7 +32,7 @@ Welcome to the Software Engineering Club! Here, you'll learn some of the ropes o
 
 Whether on your own or among a sea of team members, follow these tenets and you'll be sure to find your own success in the world of software development!
 
-Some of the above tenets have been selected for further elaboration below (or already have a related write-up talking about them!) Click on the links to read more about them, or skip to the jump if it's there!
+Some of the above tenets have been selected for further elaboration below —or already have a related write-up talking about them! Click on the links to read more about them, or skip to the jump if it's there! (More sections to be added over time.)
 
 #### No. 1: "_Agile project management_ is key!"
 
