@@ -19,15 +19,15 @@ labels:
 Welcome to the Software Engineering Club! Here, you'll learn some of the ropes of software development and the various techniques and practices that are essential to having a smooth and successful experience in the field. Below are the club's 10 tenets that all software engineers should inform themselves of and adhere to so they may best succeed in their personal and career endeavors.
 
 ### The Software Engineering Club's 10 Tenets
-1) [_Agile project management_ is key!](#agile-project-management)
-2) Take advantage of _functional programming_!
-3) Know the ins-and-outs of your _development environment_!
-4) Follow _coding standards_! (See also: ["_Feng Shui Programming_"](https://johnserraon.github.io/essays/feng-shui-programming.html))
-5) Stick to following _design patterns_! (See also: [_Rules of Creation_](https://johnserraon.github.io/essays/rules-of-creation.html))
+1) [_Agile project management_ is key!](#no-1-_agile-project-management_-is-key)<br />
+2) Take advantage of _functional programming_!<br />
+3) Know the ins-and-outs of your _development environment_!<br />
+4) Follow _coding standards_! (See also: ["_Feng Shui Programming_"](https://johnserraon.github.io/essays/feng-shui-programming.html))<br />
+5) Stick to following _design patterns_! (See also: [_Rules of Creation_](https://johnserraon.github.io/essays/rules-of-creation.html))<br />
 6) [Don't be afraid to use _open source software_!](#open-source-software)
-7) Explore different kinds of _user interface frameworks_!
-8) _Configuration management_ is important, too!
-9) [_Quality assurance_ is a must!](#quality-assurance)
+7) Explore different kinds of _user interface frameworks_!<br />
+8) _Configuration management_ is important, too!<br />
+9) [_Quality assurance_ is a must!](#quality-assurance)<br />
 10) Always consider the _ethics_ of what you make!
 
 Whether on your own or among a sea of team members, follow these tenets and you'll be sure to find your own success in the world of software development!
