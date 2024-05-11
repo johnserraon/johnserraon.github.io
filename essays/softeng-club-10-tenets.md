@@ -23,7 +23,7 @@ Welcome to the Software Engineering Club! Here, you'll learn some of the ropes o
 3) Know the ins-and-outs of your _development environment_!<br />
 4) Follow _coding standards_! (See also: ["_Feng Shui Programming_"](https://johnserraon.github.io/essays/feng-shui-programming.html))<br />
 5) Stick to following _design patterns_! (See also: [_Rules of Creation_](https://johnserraon.github.io/essays/rules-of-creation.html))<br />
-6) [Don't be afraid to use _open source software_!](#no-6-dont-be-afraid-to-use-_open-source-software_)
+6) [Don't be afraid to use _open source software_!](#no-6-dont-be-afraid-to-use-_open-source-software_)<br />
 7) Explore different kinds of _user interface frameworks_!<br />
 8) _Configuration management_ is important, too!<br />
 9) _Quality assurance_ is a must!<br />
