@@ -7,8 +7,8 @@
 :root {
   --tf-orange1: #E8B609;
   --tf-orange2: #F0780F;
-  --tf-orange3: #ffbf7e;
-  --tf-orange4: #ffedc7;
+  --tf-orange3: #ffbd63;
+  --tf-orange4: #ffefc7;
   --bs-font-sans-serif: "Open Sans", sans-serif;
   --bs-link-color: var(--tf-orange1);
   --tf-pill-bg: var(--tf-orange3);
@@ -51,4 +51,8 @@ a {
   font-size: 16px;
   color: slategray; /* Example color */
   margin-top: 5px; /* Adjust margin as needed */
+}
+
+.read-more-btn:hover {
+  color: var(--tf-orange2);
 }
