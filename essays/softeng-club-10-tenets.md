@@ -18,12 +18,12 @@ labels:
 Welcome to the Software Engineering Club! Here, you'll learn some of the ropes of software development and the various techniques and practices that are essential to having a smooth and successful experience in the field. Below are the club's 10 tenets that all software engineers should inform themselves of and adhere to so they may best succeed in their personal and career endeavors.
 
 ### The Software Engineering Club's 10 Tenets
-1) [_Agile project management_ is key!](#no-1-_agile-project-management_-is-key)<br />
+1) [_Agile project management_ is key!](#no-1-agile-project-management-is-key)<br />
 2) Take advantage of _functional programming_!<br />
 3) Know the ins-and-outs of your _development environment_!<br />
 4) Follow _coding standards_! (See also: ["_Feng Shui Programming_"](https://johnserraon.github.io/essays/feng-shui-programming.html))<br />
 5) Stick to following _design patterns_! (See also: [_Rules of Creation_](https://johnserraon.github.io/essays/rules-of-creation.html))<br />
-6) [Don't be afraid to use _open source software_!](#no-6-dont-be-afraid-to-use-_open-source-software_)<br />
+6) [Don't be afraid to use _open source software_!](#no-6-dont-be-afraid-to-use-open-source-software)<br />
 7) Explore different kinds of _user interface frameworks_!<br />
 8) _Configuration management_ is important, too!<br />
 9) _Quality assurance_ is a must!<br />
@@ -33,7 +33,7 @@ Whether on your own or among a sea of team members, follow these tenets and you'
 
 Some of the above tenets have been selected for further elaboration below —or already have a related write-up talking about them! Click on the links to read more about them, or skip to the jump if it's there! (More sections to be added over time.)
 
-#### No. 1: "_Agile project management_ is key!"
+#### No. 1: "Agile project management is key!"
 
 Our number 1 is all about the importance of agile project management in software development. With a growing project scope or adding members to your team, there are so many moving parts to any project. Thus, it is critical that your project has a structure to it that allows yourself and others to keep track of what needs to be done, what is actively being worked on and where, and what has already been completed. This is where agile project management comes in - for example, in the club leader's [_Manoa Rainbow Cards_ project](https://rainbow-cards.github.io/), the team employed the use of a GitHub project board to keep track of the various tasks that needed to be done for the team's web application.
 <div class="float-end pe-4">
@@ -47,7 +47,7 @@ This project board offered a high level of transparency on each task's status, a
 
 When approached in this way, a project becomes much easier to iterate on and see an overview of it, which helps lead developers to what needs to be worked on next at any given point of the project's development. Perhaps a task requires more support to implement its features, or causes unintended behavior in other areas of the project - with a system like a project board in place, complete with details and comments on each issue to track their progress, it becomes much easier to target and resolve these issues as they arise, and it is just as easy to create new issue tickets about them for the team to see, simultaneously documenting the needed features, changes and/or fixes. This aspect of this style of workflow is what puts the "agile" in agile project management, and it is why it such a key concept to understand and employ on your journey in software and beyond. When you have a system that lets anyone contribute to the project's goals in a way that is transparent and easy to understand, you have a strategy that is flexible and ready to take on any challenge that comes its way!
 
-#### No. 6: "Don't be afraid to use _open source software_!"
+#### No. 6: "Don't be afraid to use open source software!"
 
 It is often said that the greatest challenge of software development is knowing where to start. That's why open source software is awesome - when you start with a whole website template or, say, an entire game engine, it gives you an incredible jumping-off point to start your project and chase your dreams! Not everything has to be started or engineered from scratch, and open source software is a great way to get a head start on your goals. It even doubles as great way to learn from others' code and see how they've already solved problems that you might be facing in your own project. 
 
