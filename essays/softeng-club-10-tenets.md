@@ -39,7 +39,7 @@ Our number 1 is all about the importance of agile project management in software
 
 <div class="float-end pe-4">
     <img
-        height="325px" 
+        height="350px" 
         src="../img/softeng-club-10-tenets/agile-example-project-board.png"
         alt="Manoa Rainbow Cards Milestone 3 Project Board screenshot">
     <p class="subtitle">Pictured: Milestone 3 project board for the Manoa Rainbow Cards project. <br />By the milestone's completion, as many as 30 tasks were completed by the team!</p>
@@ -52,7 +52,7 @@ It is often said that the greatest challenge of software development is knowing 
 
 For instance, a JavaScript-based framework that was frequently used in your club leader's software engineering course was **Meteor**, which was also combined with the **React** framework. To accommodate our development stack, [this template was supplied](https://ics-software-engineering.github.io/meteor-application-template-react/) so we could get started on our web application-based projects and assessments quickly and efficiently: 
 
-<img height="325px" class="rounded mx-auto d-block" src="../img/manoa-rainbow-cards/meteor-react-template.png">
+<img height="350px" class="rounded mx-auto d-block" src="../img/manoa-rainbow-cards/meteor-react-template.png">
 
 This template proved to be an excellent resource that let us jump right into developing or web applications without having to go through all the tedium of setting up a website each time, and helped to share the message that you don't have to reinvent the wheel every time you want to make a project - chances are, there is an open source project that you can build off of as a base! As long as you build an understanding of how the project is engineered, you can turn it into anything you want. Even the club leader's [_Manoa Rainbow Cards_](https://rainbow-cards.github.io/) trading card game app was based off of the above template!
 
